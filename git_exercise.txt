@@ -1,0 +1,8 @@
+git clone "link_proyecto"
+git checkout -b "nombre_de_tu_rama"
+git add . (para agregar todos los cambios) ó
+git add "nombre_de_archivo" (para agregar 1 o mas archivos)
+git commit -m "descripcion_de_los_cambios"
+git push origin "nombre_de_tu_rama"
+
+Ir a Git y armar el Pull Request apuntando a la rama principal.
